@@ -1,5 +1,3 @@
-package com.ssafy.day0510;
-
 import java.io.*;
 import java.util.*;
 
